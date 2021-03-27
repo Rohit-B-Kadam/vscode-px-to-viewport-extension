@@ -1,6 +1,6 @@
 # px to viewport
 
-This is an extension for Visual Studio Code that allows you to convert px to viewport (vh and vw) and it convert px to min(**vw, **vh).
+This is an extension for Visual Studio Code that allows you to convert px to viewport (vh and vw), convert px to min(**vw, **vh) and convert px to rem.
 
 ## Usage
 
