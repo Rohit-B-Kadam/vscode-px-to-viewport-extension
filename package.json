@@ -1,8 +1,21 @@
 {
   "name": "px-to-viewport",
   "displayName": "px-to-viewport",
-  "description": "Convert html  Pixel to viewport",
+  "description": "Convert html Pixel to viewport and Rem",
   "version": "0.0.1",
+  "publisher": "RohitKadam",
+  "icon": "convertor-icon.png",
+  "galleryBanner": {
+    "color": "#C80000",
+    "theme": "dark"
+  },
+  "author": {
+    "name": "Rohit Kadam",
+    "url": "https://github.com/Rohit-B-Kadam"
+  },
+  "repository": {
+    "url": "https://github.com/Rohit-B-Kadam/vscode-px-to-viewport-extension"
+  },
   "engines": {
     "vscode": "^1.54.0"
   },

@@ -36,4 +36,9 @@ Initial release of px-to-viewport
 
 ---
 
+## Github
+
+https://github.com/Rohit-B-Kadam/vscode-px-to-viewport-extension
+If you have any issue or you want to add new feature create a new issue on above github repo
+
 **Enjoy!**
