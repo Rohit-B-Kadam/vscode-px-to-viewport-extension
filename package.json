@@ -2,7 +2,7 @@
   "name": "px-to-viewport",
   "displayName": "px-to-viewport",
   "description": "Convert html Pixel to viewport and Rem",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "RohitKadam",
   "icon": "convertor-icon.png",
   "galleryBanner": {
@@ -23,7 +23,10 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:px-to-viewport.convertPxToVw"
+    "onCommand:px-to-viewport.convertPxToVw",
+    "onLanguage:css",
+    "onLanguage:scss",
+    "onLanguage:js"
   ],
   "main": "./dist/extension.js",
   "contributes": {
